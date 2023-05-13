@@ -1,7 +1,8 @@
 # Class Roster Management System
 
-This is a C++ application that manages a roster of students for a university project. 
+![](https://raw.githubusercontent.com/EricJamesCrow/Class-Roster-School-Project/main/gifs/classRosterDemo.gif?token=GHSAT0AAAAAAB4LRH7KNTJAXPEOSD24GME4ZDAFHCQ)
 
+This is a C++ application that manages a roster of students for a university project. 
 ## Overview
 
 The application is designed to maintain a current roster of students within a given course. Student data for the program includes student ID, first name, last name, email address, age, an array of the number of days to complete each course, and degree program. 
