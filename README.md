@@ -1,6 +1,7 @@
 # Class Roster Management System
 
 This is a C++ application that manages a roster of students for a university project. 
+![](https://raw.githubusercontent.com/EricJamesCrow/Class-Roster-School-Project/main/gifs/classRosterDemo.gif?token=GHSAT0AAAAAAB4LRH7KNTJAXPEOSD24GME4ZDAFHCQ)
 
 ## Overview
 
